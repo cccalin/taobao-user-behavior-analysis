@@ -16,7 +16,7 @@
 
 1. PV、活跃用户与人均 PV 日趋势
 
-![PV、活跃用户与人均 PV 日趋势图](../outputs/figures/daily_trend.png)
+![PV、活跃用户与人均 PV 日趋势图](outputs/figures/daily_trend.png)
 
 图 1：PV、活跃用户与人均 PV 日趋势
 
@@ -26,21 +26,21 @@
 
 
 2. 24小时活跃与浏览深度分布
-![24小时活跃分布图](docs/screenshots/hourly_activity.png)
+![24小时活跃分布图](outputs/figures/hourly_activity.png)
 
 发现：凌晨 3-5 点处于绝对低谷（6-8 万人），从早晨 8 点开始爬升，21 点达到峰值的 68.3 万。人均 PV 在 21 点达到 11.04。
 
 建议：将核心资源位、大促开抢时间集中在 19:00 - 22:00。
 
 3. 用户级转化漏斗
-![用户级转化漏斗:浏览 → 加购/收藏 → 购买](docs/screenshots/hourly_activity.png)
+![用户级转化漏斗:浏览 → 加购/收藏 → 购买](outputs/figures/hourly_activity.png)
 
 数据：浏览用户约 98.4 万 → 加购/收藏用户约 85.9 万 → 购买用户约 67.2 万。
 
 洞察：仅 6% 的用户属于“只看不买”的流失。高达 89.3% 的购买用户走完了“浏览→加购/收藏→购买”的完整路径，说明淘宝用户的“种草-拔草”心智极强。此外，有 6.9 万（10.3%）用户属于无前置加购直接下单的“静默下单”群体。
 
 4. 购买频次分层对比
-![购买用户频次分析：人数占比vs购买贡献](docs/screenshots/buy_freq_segments.png)
+![购买用户频次分析：人数占比vs购买贡献](outputs/figures/buy_freq_segments.png)
 
 发现：一次性买家占了 34.0% 的人数，但仅贡献 11.3% 的购买量；高频买家占了 42.6% 的人数，却扛起了 73.1% 的购买量。
 
